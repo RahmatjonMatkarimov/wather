@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wathers-to-me.netlify.app/sitemap.xml
